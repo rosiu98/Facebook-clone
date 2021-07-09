@@ -52,7 +52,7 @@ function Header() {
                 <BellIcon className="icon" />
                 <ChevronDownIcon className="icon" />
 
-
+                
             </div>
         </div>
     )
